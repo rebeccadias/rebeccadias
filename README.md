@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Portfolio Website
+- 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning MERN Stack
