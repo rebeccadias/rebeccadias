@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Rebecca 👋
 
 <!--
 **rebeccadias/rebeccadias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I'm an aspiring Software Developer
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning MERN Stack
+- 😄 Pronouns: she/her
+
+#### Let's Connect 🤝🤘
+<a href="mailto:rebeccadias2510@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/893/893257.png" alt="Rebecca-dias" height="20" width="20" /></a>
+<a href="https://github.com/rebeccadias" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" alt="rebecca" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rebecca-dias-b8b2921a1/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rebecca" height="20" width="20"/></a>
