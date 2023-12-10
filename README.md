@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an aspiring Software Developer
+An aspiring Software Developer
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning MERN Stack
 - 😄 Pronouns: she/her
